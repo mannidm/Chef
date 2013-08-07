@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Chef",
+  "name": "Master Chef",
+  "description": "Cooking Taken to the Extreme",
+  "version": "0.0.1",
+  "url": "http://www.awkwardmonkey.com",
+  "updateUrl": "",
+  "authorList": [ 
+  "Black_D0g_z" 
+  ],
+  "credits": "pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
